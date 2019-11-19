@@ -1,0 +1,19 @@
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 9\Practica9\Practica9\bin\Debug\Practica9.exe
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 9\Practica9\Practica9\bin\Debug\Practica9.pdb
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 9\Practica9\Practica9\obj\Debug\Practica9.csprojResolveAssemblyReference.cache
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 9\Practica9\Practica9\obj\Debug\Practica9.Properties.Resources.resources
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 9\Practica9\Practica9\obj\Debug\Practica9.VistaGrupo.resources
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 9\Practica9\Practica9\obj\Debug\Practica9.csproj.GenerateResource.Cache
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 9\Practica9\Practica9\obj\Debug\Practica9.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 9\Practica9\Practica9\obj\Debug\Practica9.exe
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 9\Practica9\Practica9\obj\Debug\Practica9.pdb
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 9\Practica9\Practica9\obj\Debug\Practica9.NuevoGrupo.resources
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Practica 9\Practica9\Practica9\bin\Debug\Practica9.exe
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Practica 9\Practica9\Practica9\bin\Debug\Practica9.pdb
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Practica 9\Practica9\Practica9\obj\Debug\Practica9.csprojAssemblyReference.cache
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Practica 9\Practica9\Practica9\obj\Debug\Practica9.NuevoGrupo.resources
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Practica 9\Practica9\Practica9\obj\Debug\Practica9.Properties.Resources.resources
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Practica 9\Practica9\Practica9\obj\Debug\Practica9.VistaGrupo.resources
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Practica 9\Practica9\Practica9\obj\Debug\Practica9.csproj.GenerateResource.cache
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Practica 9\Practica9\Practica9\obj\Debug\Practica9.exe
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Practica 9\Practica9\Practica9\obj\Debug\Practica9.pdb
